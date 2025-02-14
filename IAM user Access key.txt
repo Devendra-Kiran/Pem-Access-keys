@@ -1,11 +1,1 @@
-# IAM Access key
-# AKIA6G75D26S5YUSWTGB
-
-# IAM Secret Key
-# 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
-# GIT
-username - D-Kiran
-PWD - F@07
-# AWS
-Uname - devendrareddygandhaveeti78@gmail.com
-PWD - F@07
+IAM user access keys saved to mac desk top
